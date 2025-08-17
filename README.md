@@ -55,7 +55,7 @@
 
 ## 📫 Como me encontrar
 - ✉️ Email: **tif2017c@gmail.com**  
-- 💼 [LinkedIn](https://linkedin.com/in/SEU-USUARIO)  
+- 💼 [LinkedIn](www.linkedin.com/in/josé-weberson)  
 
 ---
 
