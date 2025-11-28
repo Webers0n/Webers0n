@@ -57,9 +57,6 @@
 <a href="https://www.sqlite.org" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite">
 </a>
-<a href="https://www.mysql.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL">
-</a>
 
 </p>
 
