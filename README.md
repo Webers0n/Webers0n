@@ -38,12 +38,29 @@
   <a href="https://en.cppreference.com/w/c" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" />
   </a>
+  <a href="https://isocpp.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++">
+</a>
+<a href="https://www.java.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java">
+</a>
   <a href="https://docs.python.org/3/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
   </a>
   <a href="https://dev.mysql.com/doc/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
   </a>
+  
+<a href="https://flask.palletsprojects.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" alt="Flask">
+</a>
+<a href="https://www.sqlite.org" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite">
+</a>
+<a href="https://www.mysql.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL">
+</a>
+
 </p>
 
 
